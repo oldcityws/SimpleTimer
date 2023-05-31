@@ -3,7 +3,7 @@ Barebones task timer that records tasks
 
 Currently exports to a text file and creates an entry into a SQLite unencrypted database.
 
-Future releases may include:
+Planned features in future releases:
 1.  Invoice Compiler
 2.  Export to MySQL database
 3.  Project / Matter tagging
