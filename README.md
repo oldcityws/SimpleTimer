@@ -14,7 +14,7 @@ NEW: Converts decimal number to hours & minutes.
 <b>Features Implemented:</b><p>
 2023-06-02 -- QTY to decimal calculator
 
-Sponsorship will help me afford dedicated development time. <br>
+Dponations will help me afford dedicated development time. <br>
 This software is released without expectation of payment, <br>
 to enable access to all who seek efficiency in billing.<br>
 I greatly appreciate all support / sponsorships received.
