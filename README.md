@@ -1,8 +1,8 @@
 # SimpleTimer
 Barebones task timer that records tasks
 
-NEW: Separates TXT logs by YYYY-MM and YYYY-MM-DD
-2023: Converts decimal number to hours & minutes.
+NEW: Separates TXT logs by YYYY-MM and YYYY-MM-DD <br>
+2023: Converts decimal number to hours & minutes. <br>
 Currently exports to a text file and creates <br>
 an entry into a SQLite unencrypted database.<br>
 
