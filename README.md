@@ -13,9 +13,9 @@ an entry into a SQLite unencrypted database.<br>
 4.  Account-based invoicing
 
 <b>Features Implemented:</b><p>
-2024-02-06 -- Log TXT separated by dates
-2024-02-06 -- NEXT save on Simple screen
-2023-06-02 -- QTY to decimal calculator
+2024-02-06 -- Log TXT separated by dates <br>
+2024-02-06 -- NEXT save on Simple screen <br>
+2023-06-02 -- QTY to decimal calculator <br>
 
 Donations will help me afford dedicated development time. <br>
 This software is released without expectation of payment, <br>
