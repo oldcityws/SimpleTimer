@@ -1,9 +1,10 @@
 # SimpleTimer
 Barebones task timer that records tasks
 
+NEW: Separates TXT logs by YYYY-MM and YYYY-MM-DD
+2023: Converts decimal number to hours & minutes.
 Currently exports to a text file and creates <br>
 an entry into a SQLite unencrypted database.<br>
-NEW: Converts decimal number to hours & minutes.
 
 <b>Planned features in future releases:</b>
 1.  Invoice Compiler
@@ -12,6 +13,8 @@ NEW: Converts decimal number to hours & minutes.
 4.  Account-based invoicing
 
 <b>Features Implemented:</b><p>
+2024-02-06 -- Log TXT separated by dates
+2024-02-06 -- NEXT save on Simple screen
 2023-06-02 -- QTY to decimal calculator
 
 Donations will help me afford dedicated development time. <br>
