@@ -19,7 +19,7 @@ Exports: TXT files + SQLite unencrypted database.<br>
 2023-06-02 -- QTY to decimal calculator <br>
 
 <b>Donations provide incentive for continued development. </b><br>
-PayPal: https://www.paypal.com/paypalme/amy30303
+PayPal: https://www.paypal.com/paypalme/amy30303 <br>
 BSC: 0x2A93Ee4FaBFd70785122991838481dD98ebF924F <br>
 BTT (TRX): TDqjyGimcUVvs3T79YCDkCPebiYZq5csvs <br>
 BTC: 1A3F8wcWWCxHZiwELGPgDesBSDVMckwF3h <br>
