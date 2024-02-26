@@ -1,7 +1,7 @@
 # SimpleTimer
 <b>Barebones task timer that records tasks</b><br>
 
-NEW: Saves log folder inside user documents folder.
+NEW: Saves log folder inside user documents folder. <br>
 2024: Separates TXT logs by YYYY-MM and YYYY-MM-DD. <br>
 2023: Converts decimal number to hours & minutes. <br>
 Exports: TXT files + SQLite unencrypted database.<br>
