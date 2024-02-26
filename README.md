@@ -2,7 +2,7 @@
 <b>Barebones task timer that records tasks</b><br>
 
 NEW: Saves log folder inside user documents folder. <br>
-2024: Separate TXT logs _ YYYY-MM -> YYYY-MM-DD. <br>
+2024: Separate TXT logs: YYYY-MM -> YYYY-MM-DD. <br>
 2023: Converts decimal number to hours & minutes. <br>
 Exports: TXT files + SQLite unencrypted database.<br>
 <br>
@@ -18,7 +18,8 @@ Exports: TXT files + SQLite unencrypted database.<br>
 2024-02-06 -- NEXT save on Simple screen <br>
 2023-06-02 -- QTY to decimal calculator <br>
 
-Donations provide incentive for continued development. <br>
+<b>Donations provide incentive for continued development. </b><br>
+PayPal: https://www.paypal.com/paypalme/amy30303
 BSC: 0x2A93Ee4FaBFd70785122991838481dD98ebF924F <br>
 BTT (TRX): TDqjyGimcUVvs3T79YCDkCPebiYZq5csvs <br>
 BTC: 1A3F8wcWWCxHZiwELGPgDesBSDVMckwF3h <br>
