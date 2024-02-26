@@ -1,10 +1,10 @@
 # SimpleTimer
-Barebones task timer that records tasks<br>
+<b>Barebones task timer that records tasks</b><br>
 
-NEW: Separates TXT logs by YYYY-MM and YYYY-MM-DD <br>
+NEW: Saves log folder inside user documents folder.
+2024: Separates TXT logs by YYYY-MM and YYYY-MM-DD. <br>
 2023: Converts decimal number to hours & minutes. <br>
-Currently exports to a text file and creates <br>
-an entry into a SQLite unencrypted database.<br>
+Exports: TXT files + SQLite unencrypted database.<br>
 <br>
 <b>Planned features in future releases:</b>
 1.  Invoice Compiler
