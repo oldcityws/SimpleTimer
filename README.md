@@ -32,3 +32,7 @@ I greatly appreciate all support / sponsorships received.<br>
 <br>
 Feature requests?  Questions?  Comments?  Feedback?<br>
 Feel free to contact me at amybarnes_usa on Twitter.
+
+![Explainer Image with summary of features](https://github.com/oldcityws/SimpleTimer/blob/main/z_IMG/a2024-05-14.png)
+
+Edited May 14, 2024 by Amy Barnes
