@@ -31,8 +31,11 @@ USTC: 0x2A93Ee4FaBFd70785122991838481dD98ebF924F <br>
 I greatly appreciate all support / sponsorships received.<br>
 <br>
 Feature requests?  Questions?  Comments?  Feedback?<br>
-Feel free to contact me at amybarnes_usa on Twitter.
-
-![Explainer Image with summary of features](https://github.com/oldcityws/SimpleTimer/blob/main/z_IMG/a2024-05-14.png)
-
+Feel free to contact me at amybarnes_usa on Twitter. <br>
+<br>
+For a plain text description in addition to the Explainer image: <br>
+[https://github.com/oldcityws/SimpleTimer/blob/main/ExplainerText.md](https://github.com/oldcityws/SimpleTimer/blob/main/ExplainerText.md) <br>
+<br>
+![Explainer Image with summary of features](https://github.com/oldcityws/SimpleTimer/blob/main/z_IMG/a2024-05-14.png) <br>
+<br>
 Edited May 14, 2024 by Amy Barnes
