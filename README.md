@@ -28,8 +28,6 @@ ETH: 0x2A93Ee4FaBFd70785122991838481dD98ebF924F <br>
 LUNC: terra1sqpk2jsq33asx0fpsx3ahyneqfme93ztvpfwsx <br>
 USTC: 0x2A93Ee4FaBFd70785122991838481dD98ebF924F <br>
 <br>
-I greatly appreciate all support / sponsorships received.<br>
-<br>
 Feature requests?  Questions?  Comments?  Feedback?<br>
 Feel free to contact me at amybarnes_usa on Twitter. <br>
 <br>
