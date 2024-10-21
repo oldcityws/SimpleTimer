@@ -1,13 +1,13 @@
 # SimpleTimer
 <b>Barebones task timer that records tasks</b><br>
 <br>
-SimpleTimer store is LIVE - https://www.simpletimer.info <br>
+<b>SimpleTimer store is LIVE - https://www.simpletimer.info </b><br>
 <br>
-BETA TESTER COUPON - 5FIRST3 - First 3 Months at $5/mo.<br>
+BETA TESTER COUPON - <b>5FIRST3</b> - First 3 Months at $5/mo.<br>
 Coupon is LIMITED to the first 25 subscribers.<br>
 I will be releasing features throughout the quarter. <br>
  <br>
-FIRST SUPPORTER COUPON - EARLY100 - Perpetual only $100.<br>
+FIRST SUPPORTER COUPON - <b>EARLY100</b> - Perpetual only $100.<br>
 Coupon is LIMITED to the first 100 purchasers.<br>
 This is a permanent license to SimpleTimer desktop.<br>
 <br>
