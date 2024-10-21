@@ -33,7 +33,8 @@ Exports: TXT files + SQLite unencrypted database.<br>
 <b>Donations provide incentive for continued development. </b><br>
 PayPal: https://www.paypal.com/paypalme/amy30303 <br>
 <br>
-Feature requests?  Questions?  Comments?  Feedback?<br>
+Do you have feature requests?  Questions?  Comments?  Feedback?<br>
+Report bugs - https://github.com/oldcityws/SimpleTimer/issues<br>
 Feel free to contact me at amybarnes_usa on Twitter. <br>
 <br>
 For a plain text description in addition to the Explainer image: <br>
