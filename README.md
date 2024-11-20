@@ -1,6 +1,6 @@
 # SimpleTimer
 <b>Barebones task timer that records tasks</b><br>
-<br> Current Edition - 2024-2-8-3
+<br> Current Edition - 2024-2-8-4
 <br>
 <b>SimpleTimer store is LIVE - https://www.simpletimer.info </b><br>
 <br>
