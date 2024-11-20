@@ -1,5 +1,6 @@
 # SimpleTimer
 <b>Barebones task timer that records tasks</b><br>
+<br> Current Edition - 2024-2-8-3
 <br>
 <b>SimpleTimer store is LIVE - https://www.simpletimer.info </b><br>
 <br>
@@ -18,13 +19,15 @@ This is a permanent license to SimpleTimer desktop.<br>
 Exports: TXT files + SQLite unencrypted database.<br>
 <br>
 <b>Planned features in future releases:</b>
-1.  Super-Simple Mode
-2.  Invoice Compiler
-3.  Export to MySQL database
-4.  Project / Matter tagging
+1.  Invoice Compiler
+2.  Project / Matter tagging
+3.  Super-Simple Mode
+4.  Export to MySQL database
 5.  Account-based invoicing
 
 <b>Features Implemented:</b><p>
+2024-11-19 -- Time logs can be searched <br>
+2024-11-19 -- Time logs display in sheet <br>
 2024-02-26 -- Logs now in user Docs folder <br>
 2024-02-06 -- Log TXT separated by dates <br>
 2024-02-06 -- NEXT save on Simple screen <br>
