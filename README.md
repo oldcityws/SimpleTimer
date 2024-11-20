@@ -43,6 +43,4 @@ Feel free to contact me at amybarnes_usa on Twitter. <br>
 For a plain text description in addition to the Explainer image: <br>
 [https://github.com/oldcityws/SimpleTimer/blob/main/ExplainerText.md](https://github.com/oldcityws/SimpleTimer/blob/main/ExplainerText.md) <br>
 <br>
-![Explainer Image with summary of features](https://github.com/oldcityws/SimpleTimer/blob/main/z_IMG/a2024-05-14.png) <br>
-<br>
-Edited May 14, 2024 by Amy Barnes
+###
