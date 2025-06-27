@@ -1,6 +1,6 @@
 # SimpleTimer
 <b>Barebones task timer that records tasks</b><br>
-<br> Current Edition - 2024-2-8-4
+<br> Current Edition - 2025-1-5-8
 <br>
 <b>SimpleTimer store is LIVE - https://www.simpletimer.info </b><br>
 <br>
@@ -13,6 +13,7 @@ Coupon is LIMITED to the first 100 purchasers.<br>
 This is a permanent license to SimpleTimer desktop.<br>
 <br>
 <b>The following features are now active:</b><br>
+2025: Saves Files, Tasks, and more to database. <br>
 2024: Saves log folder inside user documents folder. <br>
 2024: Separate TXT logs: YYYY-MM -> YYYY-MM-DD. <br>
 2023: Converts decimal number to hours & minutes. <br>
@@ -26,6 +27,7 @@ Exports: TXT files + SQLite unencrypted database.<br>
 5.  Account-based invoicing
 
 <b>Features Implemented:</b><p>
+2025-06-27 -- Tasks, Files, and more <br>
 2024-11-19 -- Time logs can be searched <br>
 2024-11-19 -- Time logs display in sheet <br>
 2024-02-26 -- Logs now in user Docs folder <br>
