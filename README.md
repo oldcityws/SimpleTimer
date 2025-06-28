@@ -21,13 +21,13 @@ Exports: TXT files + SQLite unencrypted database.<br>
 <br>
 <b>Planned features in future releases:</b>
 1.  Invoice Compiler
-2.  Project / Matter tagging
-3.  Super-Simple Mode
-4.  Export to MySQL database
-5.  Account-based invoicing
+2.  Networking & data export
+3.  Secured communications
+4.  Website / hosted data
+5.  Public access portals
 
 <b>Features Implemented:</b><p>
-2025-06-27 -- Tasks, Files, and more <br>
+2025-06-27 -- Tasks, Rolodex, new views <br>
 2024-11-19 -- Time logs can be searched <br>
 2024-11-19 -- Time logs display in sheet <br>
 2024-02-26 -- Logs now in user Docs folder <br>
@@ -41,8 +41,5 @@ PayPal: https://www.paypal.com/paypalme/amy30303 <br>
 Do you have feature requests?  Questions?  Comments?  Feedback?<br>
 Report bugs - https://github.com/oldcityws/SimpleTimer/issues<br>
 Feel free to contact me at amybarnes_usa on Twitter. <br>
-<br>
-For a plain text description in addition to the Explainer image: <br>
-[https://github.com/oldcityws/SimpleTimer/blob/main/ExplainerText.md](https://github.com/oldcityws/SimpleTimer/blob/main/ExplainerText.md) <br>
 <br>
 ###
