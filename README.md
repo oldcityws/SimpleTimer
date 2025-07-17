@@ -2,7 +2,7 @@
 <b>Barebones task timer that records tasks</b><br>
 <br> Current Edition - 2025-1-5-8
 <br>
-<b>SimpleTimer store is LIVE - https://www.simpletimer.info </b><br>
+<b>SimpleTimer store is being ported over to a new server and will be back up soon. </b><br>
 <br>
 BETA TESTER COUPON - <b>5FIRST3</b> - First 3 Months at $5/mo.<br>
 Coupon is LIMITED to the first 25 subscribers.<br>
