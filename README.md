@@ -21,10 +21,13 @@ Exports: TXT files + SQLite unencrypted database.<br>
 <br>
 <b>Planned features in future releases:</b>
 1.  Invoice Compiler
-2.  Networking & data export
-3.  Secured communications
-4.  Website / hosted data
-5.  Public access portals
+2.  Spite Chart of Accounts
+3.  Bookkeeping Functions
+4.  Financial Status Reports
+5.  Networking & data export
+6.  Secured communications
+7.  Website / hosted data
+8.  Public access portals
 
 <b>Features Implemented:</b><p>
 2025-06-27 -- Tasks, Rolodex, new views <br>
